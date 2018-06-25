@@ -1,0 +1,10 @@
+#!/bin/sh
+id=2
+i=0
+while [ $id -le 10 ]
+do
+VAL[$i] = $(jq  '.['$id'] | ."NAME:"' test.json )
+echo  ${ VAL[*] }
+i=$((i+1))
+id=$((id+1))
+done

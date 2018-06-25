@@ -1,0 +1,10 @@
+#!/bin/sh
+id=2
+while [ $id -le 10 ]
+do
+jq '.['$id'] | ."NAME:"' test.json  > value
+sub$id=$(cat "Value")
+
+ id=$((id+1))
+echo $sub$id
+done

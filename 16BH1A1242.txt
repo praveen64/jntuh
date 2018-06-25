@@ -1,0 +1,113 @@
+﻿[
+    {
+        "HTNO:": "FATHER NAME:",
+        "16BH1A1242": "SEVAKULA YADAIAH",
+        "NAME:": "COLLEGE CODE:",
+        "SEVAKULA VINOD KUMAR": "BH"
+    },
+    {
+        "HTNO:": "SUBJECT CODE",
+        "16BH1A1242": "SUBJECT NAME",
+        "NAME:": "GRADE",
+        "SEVAKULA VINOD KUMAR": "CREDITS"
+    },
+    {
+        "HTNO:": "13408",
+        "16BH1A1242": "COMPUTER ORGANIZATION LAB",
+        "NAME:": "A",
+        "SEVAKULA VINOD KUMAR": "2"
+    },
+    {
+        "HTNO:": "13410",
+        "16BH1A1242": "DATABASE MANAGEMENT SYSTEMS LAB",
+        "NAME:": "A+",
+        "SEVAKULA VINOD KUMAR": "2"
+    },
+    {
+        "HTNO:": "13432",
+        "16BH1A1242": "OPERATING SYSTEMS LAB",
+        "NAME:": "A+",
+        "SEVAKULA VINOD KUMAR": "2"
+    },
+    {
+        "HTNO:": "13440",
+        "16BH1A1242": "GENDER SENSITIZATION LAB",
+        "NAME:": "O",
+        "SEVAKULA VINOD KUMAR": "0"
+    },
+    {
+        "HTNO:": "134AG",
+        "16BH1A1242": "BUSINESS ECONOMICS AND FINANCIAL ANALYSIS",
+        "NAME:": "C",
+        "SEVAKULA VINOD KUMAR": "3"
+    },
+    {
+        "HTNO:": "134AK",
+        "16BH1A1242": "COMPUTER ORGANIZATION",
+        "NAME:": "C",
+        "SEVAKULA VINOD KUMAR": "4"
+    },
+    {
+        "HTNO:": "134AP",
+        "16BH1A1242": "DATABASE MANAGEMENT SYSTEMS",
+        "NAME:": "F",
+        "SEVAKULA VINOD KUMAR": "0"
+    },
+    {
+        "HTNO:": "134BD",
+        "16BH1A1242": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+        "NAME:": "F",
+        "SEVAKULA VINOD KUMAR": "0"
+    },
+    {
+        "HTNO:": "134BU",
+        "16BH1A1242": "OPERATING SYSTEMS",
+        "NAME:": "F",
+        "SEVAKULA VINOD KUMAR": "0"
+    },
+    {
+        "HTNO:": "% of Marks Secured in a Subject / Course (Class Intervals)",
+        "16BH1A1242": "Letter Grade (UGC Guide Lines)",
+        "NAME:": "Grade Points"
+    },
+    {
+        "HTNO:": "Greater than or equal to 90 %",
+        "16BH1A1242": "O  (Outstanding)",
+        "NAME:": "10"
+    },
+    {
+        "HTNO:": "80 and Less than 90 %",
+        "16BH1A1242": "A+  (Excellent)",
+        "NAME:": "9"
+    },
+    {
+        "HTNO:": "70 and Less than 80 %",
+        "16BH1A1242": "A  (Very Good)",
+        "NAME:": "8"
+    },
+    {
+        "HTNO:": "60 and Less than 70 %",
+        "16BH1A1242": "B+  (Good)",
+        "NAME:": "7"
+    },
+    {
+        "HTNO:": "50 and Less than 60 %",
+        "16BH1A1242": "B   (Average)",
+        "NAME:": "6"
+    },
+    {
+        "HTNO:": "40 and Less than 50 %",
+        "16BH1A1242": "C   (Pass)",
+        "NAME:": "5"
+    },
+    {
+        "HTNO:": "Below 40 %",
+        "16BH1A1242": "F  (Fail)",
+        "NAME:": "0"
+    },
+    {
+        "HTNO:": "Absent",
+        "16BH1A1242": "Ab",
+        "NAME:": "0"
+    }
+]

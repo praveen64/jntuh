@@ -1,0 +1,113 @@
+﻿[
+    {
+        "HTNO:": "FATHER NAME:",
+        "16BH1A1211": "BURGULA MAHENDER REDDY",
+        "NAME:": "COLLEGE CODE:",
+        "BURGULA PHALGUNA REDDY": "BH"
+    },
+    {
+        "HTNO:": "SUBJECT CODE",
+        "16BH1A1211": "SUBJECT NAME",
+        "NAME:": "GRADE",
+        "BURGULA PHALGUNA REDDY": "CREDITS"
+    },
+    {
+        "HTNO:": "13408",
+        "16BH1A1211": "COMPUTER ORGANIZATION LAB",
+        "NAME:": "A+",
+        "BURGULA PHALGUNA REDDY": "2"
+    },
+    {
+        "HTNO:": "13410",
+        "16BH1A1211": "DATABASE MANAGEMENT SYSTEMS LAB",
+        "NAME:": "A+",
+        "BURGULA PHALGUNA REDDY": "2"
+    },
+    {
+        "HTNO:": "13432",
+        "16BH1A1211": "OPERATING SYSTEMS LAB",
+        "NAME:": "O",
+        "BURGULA PHALGUNA REDDY": "2"
+    },
+    {
+        "HTNO:": "13440",
+        "16BH1A1211": "GENDER SENSITIZATION LAB",
+        "NAME:": "O",
+        "BURGULA PHALGUNA REDDY": "0"
+    },
+    {
+        "HTNO:": "134AG",
+        "16BH1A1211": "BUSINESS ECONOMICS AND FINANCIAL ANALYSIS",
+        "NAME:": "B",
+        "BURGULA PHALGUNA REDDY": "3"
+    },
+    {
+        "HTNO:": "134AK",
+        "16BH1A1211": "COMPUTER ORGANIZATION",
+        "NAME:": "C",
+        "BURGULA PHALGUNA REDDY": "4"
+    },
+    {
+        "HTNO:": "134AP",
+        "16BH1A1211": "DATABASE MANAGEMENT SYSTEMS",
+        "NAME:": "C",
+        "BURGULA PHALGUNA REDDY": "4"
+    },
+    {
+        "HTNO:": "134BD",
+        "16BH1A1211": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+        "NAME:": "F",
+        "BURGULA PHALGUNA REDDY": "0"
+    },
+    {
+        "HTNO:": "134BU",
+        "16BH1A1211": "OPERATING SYSTEMS",
+        "NAME:": "B",
+        "BURGULA PHALGUNA REDDY": "4"
+    },
+    {
+        "HTNO:": "% of Marks Secured in a Subject / Course (Class Intervals)",
+        "16BH1A1211": "Letter Grade (UGC Guide Lines)",
+        "NAME:": "Grade Points"
+    },
+    {
+        "HTNO:": "Greater than or equal to 90 %",
+        "16BH1A1211": "O  (Outstanding)",
+        "NAME:": "10"
+    },
+    {
+        "HTNO:": "80 and Less than 90 %",
+        "16BH1A1211": "A+  (Excellent)",
+        "NAME:": "9"
+    },
+    {
+        "HTNO:": "70 and Less than 80 %",
+        "16BH1A1211": "A  (Very Good)",
+        "NAME:": "8"
+    },
+    {
+        "HTNO:": "60 and Less than 70 %",
+        "16BH1A1211": "B+  (Good)",
+        "NAME:": "7"
+    },
+    {
+        "HTNO:": "50 and Less than 60 %",
+        "16BH1A1211": "B   (Average)",
+        "NAME:": "6"
+    },
+    {
+        "HTNO:": "40 and Less than 50 %",
+        "16BH1A1211": "C   (Pass)",
+        "NAME:": "5"
+    },
+    {
+        "HTNO:": "Below 40 %",
+        "16BH1A1211": "F  (Fail)",
+        "NAME:": "0"
+    },
+    {
+        "HTNO:": "Absent",
+        "16BH1A1211": "Ab",
+        "NAME:": "0"
+    }
+]

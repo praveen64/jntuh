@@ -1,0 +1,113 @@
+﻿[
+    {
+        "HTNO:": "FATHER NAME:",
+        "16BH1A1234": "NALLA RAJESHWAR",
+        "NAME:": "COLLEGE CODE:",
+        "NALLA RAMYA": "BH"
+    },
+    {
+        "HTNO:": "SUBJECT CODE",
+        "16BH1A1234": "SUBJECT NAME",
+        "NAME:": "GRADE",
+        "NALLA RAMYA": "CREDITS"
+    },
+    {
+        "HTNO:": "13408",
+        "16BH1A1234": "COMPUTER ORGANIZATION LAB",
+        "NAME:": "B+",
+        "NALLA RAMYA": "2"
+    },
+    {
+        "HTNO:": "13410",
+        "16BH1A1234": "DATABASE MANAGEMENT SYSTEMS LAB",
+        "NAME:": "A+",
+        "NALLA RAMYA": "2"
+    },
+    {
+        "HTNO:": "13432",
+        "16BH1A1234": "OPERATING SYSTEMS LAB",
+        "NAME:": "A+",
+        "NALLA RAMYA": "2"
+    },
+    {
+        "HTNO:": "13440",
+        "16BH1A1234": "GENDER SENSITIZATION LAB",
+        "NAME:": "O",
+        "NALLA RAMYA": "0"
+    },
+    {
+        "HTNO:": "134AG",
+        "16BH1A1234": "BUSINESS ECONOMICS AND FINANCIAL ANALYSIS",
+        "NAME:": "F",
+        "NALLA RAMYA": "0"
+    },
+    {
+        "HTNO:": "134AK",
+        "16BH1A1234": "COMPUTER ORGANIZATION",
+        "NAME:": "C",
+        "NALLA RAMYA": "4"
+    },
+    {
+        "HTNO:": "134AP",
+        "16BH1A1234": "DATABASE MANAGEMENT SYSTEMS",
+        "NAME:": "F",
+        "NALLA RAMYA": "0"
+    },
+    {
+        "HTNO:": "134BD",
+        "16BH1A1234": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+        "NAME:": "F",
+        "NALLA RAMYA": "0"
+    },
+    {
+        "HTNO:": "134BU",
+        "16BH1A1234": "OPERATING SYSTEMS",
+        "NAME:": "F",
+        "NALLA RAMYA": "0"
+    },
+    {
+        "HTNO:": "% of Marks Secured in a Subject / Course (Class Intervals)",
+        "16BH1A1234": "Letter Grade (UGC Guide Lines)",
+        "NAME:": "Grade Points"
+    },
+    {
+        "HTNO:": "Greater than or equal to 90 %",
+        "16BH1A1234": "O  (Outstanding)",
+        "NAME:": "10"
+    },
+    {
+        "HTNO:": "80 and Less than 90 %",
+        "16BH1A1234": "A+  (Excellent)",
+        "NAME:": "9"
+    },
+    {
+        "HTNO:": "70 and Less than 80 %",
+        "16BH1A1234": "A  (Very Good)",
+        "NAME:": "8"
+    },
+    {
+        "HTNO:": "60 and Less than 70 %",
+        "16BH1A1234": "B+  (Good)",
+        "NAME:": "7"
+    },
+    {
+        "HTNO:": "50 and Less than 60 %",
+        "16BH1A1234": "B   (Average)",
+        "NAME:": "6"
+    },
+    {
+        "HTNO:": "40 and Less than 50 %",
+        "16BH1A1234": "C   (Pass)",
+        "NAME:": "5"
+    },
+    {
+        "HTNO:": "Below 40 %",
+        "16BH1A1234": "F  (Fail)",
+        "NAME:": "0"
+    },
+    {
+        "HTNO:": "Absent",
+        "16BH1A1234": "Ab",
+        "NAME:": "0"
+    }
+]

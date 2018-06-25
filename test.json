@@ -1,0 +1,113 @@
+[
+    {
+        "HTNO:": "FATHER NAME:",
+        "16BH1A0503": "ABDUL WAHID",
+        "NAME:": "COLLEGE CODE:",
+        "ABDUL GAFFAR": "BH"
+    },
+    {
+        "HTNO:": "SUBJECT CODE",
+        "16BH1A0503": "SUBJECT NAME",
+        "NAME:": "GRADE",
+        "ABDUL GAFFAR": "CREDITS"
+    },
+    {
+        "HTNO:": "13408",
+        "16BH1A0503": "COMPUTER ORGANIZATION LAB",
+        "NAME:": "O",
+        "ABDUL GAFFAR": "2"
+    },
+    {
+        "HTNO:": "13410",
+        "16BH1A0503": "DATABASE MANAGEMENT SYSTEMS LAB",
+        "NAME:": "O",
+        "ABDUL GAFFAR": "2"
+    },
+    {
+        "HTNO:": "13432",
+        "16BH1A0503": "OPERATING SYSTEMS LAB",
+        "NAME:": "O",
+        "ABDUL GAFFAR": "2"
+    },
+    {
+        "HTNO:": "13440",
+        "16BH1A0503": "GENDER SENSITIZATION LAB",
+        "NAME:": "O",
+        "ABDUL GAFFAR": "0"
+    },
+    {
+        "HTNO:": "134AG",
+        "16BH1A0503": "BUSINESS ECONOMICS AND FINANCIAL ANALYSIS",
+        "NAME:": "B",
+        "ABDUL GAFFAR": "3"
+    },
+    {
+        "HTNO:": "134AK",
+        "16BH1A0503": "COMPUTER ORGANIZATION",
+        "NAME:": "F",
+        "ABDUL GAFFAR": "0"
+    },
+    {
+        "HTNO:": "134AP",
+        "16BH1A0503": "DATABASE MANAGEMENT SYSTEMS",
+        "NAME:": "B",
+        "ABDUL GAFFAR": "4"
+    },
+    {
+        "HTNO:": "134BD",
+        "16BH1A0503": "FORMAL LANGUAGES AND AUTOMATA THEORY",
+        "NAME:": "B",
+        "ABDUL GAFFAR": "3"
+    },
+    {
+        "HTNO:": "134BU",
+        "16BH1A0503": "OPERATING SYSTEMS",
+        "NAME:": "F",
+        "ABDUL GAFFAR": "0"
+    },
+    {
+        "HTNO:": "% of Marks Secured in a Subject / Course (Class Intervals)",
+        "16BH1A0503": "Letter Grade (UGC Guide Lines)",
+        "NAME:": "Grade Points"
+    },
+    {
+        "HTNO:": "Greater than or equal to 90 %",
+        "16BH1A0503": "O  (Outstanding)",
+        "NAME:": "10"
+    },
+    {
+        "HTNO:": "80 and Less than 90 %",
+        "16BH1A0503": "A+  (Excellent)",
+        "NAME:": "9"
+    },
+    {
+        "HTNO:": "70 and Less than 80 %",
+        "16BH1A0503": "A  (Very Good)",
+        "NAME:": "8"
+    },
+    {
+        "HTNO:": "60 and Less than 70 %",
+        "16BH1A0503": "B+  (Good)",
+        "NAME:": "7"
+    },
+    {
+        "HTNO:": "50 and Less than 60 %",
+        "16BH1A0503": "B   (Average)",
+        "NAME:": "6"
+    },
+    {
+        "HTNO:": "40 and Less than 50 %",
+        "16BH1A0503": "C   (Pass)",
+        "NAME:": "5"
+    },
+    {
+        "HTNO:": "Below 40 %",
+        "16BH1A0503": "F  (Fail)",
+        "NAME:": "0"
+    },
+    {
+        "HTNO:": "Absent",
+        "16BH1A0503": "Ab",
+        "NAME:": "0"
+    }
+]
